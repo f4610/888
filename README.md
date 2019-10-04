@@ -6,9 +6,9 @@
 [TestNG](https://testng.org/doc/)
 
 * Code in Java 
-* Selenium Webdriver to interact with the application under test - OK
-* TestNG to run the tests - OK
-* TestNG to do the assertions - TODO
+* Selenium Webdriver to interact with the application under test
+* TestNG to run the tests 
+* TestNG to do the assertions 
 * A Page interactions layer (based on the Page-Object pattern but doesn't have to mimic any specific implementation)
 * A Driver interactions layer  (so that the page interactions layer is not directly calling selenium methods)
 * Framework will tests the google website (www.google.com)
