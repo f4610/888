@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24921" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:31 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24921" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:31 CEST">
+      <class name="com.google.Testcases.VerifySearch">
+        <test-method status="PASS" signature="checkSearchEngine()[pri:0, instance:com.google.Testcases.VerifySearch@6c3708b3]" name="checkSearchEngine" duration-ms="9812" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:16 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSearchEngine -->
+        <test-method status="PASS" signature="checkVirtualKeyboardTool()[pri:0, instance:com.google.Testcases.VerifySearch@6c3708b3]" name="checkVirtualKeyboardTool" duration-ms="15070" started-at="2019-10-04T17:26:16 CEST" finished-at="2019-10-04T17:26:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkVirtualKeyboardTool -->
+      </class> <!-- com.google.Testcases.VerifySearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
