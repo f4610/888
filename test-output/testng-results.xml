@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24921" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:31 CEST">
+  <suite name="Default suite" duration-ms="29552" started-at="2019-10-08T17:16:02Z" finished-at="2019-10-08T17:16:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24921" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:31 CEST">
-      <class name="com.google.Testcases.VerifySearch">
-        <test-method status="PASS" signature="checkSearchEngine()[pri:0, instance:com.google.Testcases.VerifySearch@6c3708b3]" name="checkSearchEngine" duration-ms="9812" started-at="2019-10-04T17:26:06 CEST" finished-at="2019-10-04T17:26:16 CEST">
+    <test name="Default test" duration-ms="29552" started-at="2019-10-08T17:16:02Z" finished-at="2019-10-08T17:16:32Z">
+      <class name="com.Spec888.TestCases.VerifySearch">
+        <test-method status="PASS" signature="checkSearchEngine()[pri:0, instance:com.Spec888.TestCases.VerifySearch@7cd62f43]" name="checkSearchEngine" duration-ms="10652" started-at="2019-10-08T17:16:02Z" finished-at="2019-10-08T17:16:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkSearchEngine -->
-        <test-method status="PASS" signature="checkVirtualKeyboardTool()[pri:0, instance:com.google.Testcases.VerifySearch@6c3708b3]" name="checkVirtualKeyboardTool" duration-ms="15070" started-at="2019-10-04T17:26:16 CEST" finished-at="2019-10-04T17:26:31 CEST">
+        <test-method status="PASS" signature="checkVirtualKeyboardTool()[pri:0, instance:com.Spec888.TestCases.VerifySearch@7cd62f43]" name="checkVirtualKeyboardTool" duration-ms="18872" started-at="2019-10-08T17:16:13Z" finished-at="2019-10-08T17:16:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkVirtualKeyboardTool -->
-      </class> <!-- com.google.Testcases.VerifySearch -->
+      </class> <!-- com.Spec888.TestCases.VerifySearch -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
